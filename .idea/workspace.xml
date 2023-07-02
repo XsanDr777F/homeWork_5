@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fbbf225-a11e-4184-b56f-afbb69c82a45" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0fbbf225-a11e-4184-b56f-afbb69c82a45" name="Changes" comment="homeWork_5 is done">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +61,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688215690690</updated>
-      <workItem from="1688215692042" duration="5331000" />
+      <workItem from="1688215692042" duration="6069000" />
     </task>
+    <task id="LOCAL-00001" summary="homeWork_5 is done">
+      <created>1688224188362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688224188362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homeWork_5 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homeWork_5 is done" />
   </component>
 </project>

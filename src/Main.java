@@ -43,7 +43,7 @@ public class Main {
         System.out.println("Задача 3");
 
         int year = 2040;
-        if (((year % 4) == 0) == true) {
+        if (((year % 4) == 0) == true && year % 100 != 0 || year % 400 == 0) {
             System.out.println(year + " - это высокостный год");
         } else {
             System.out.println(year + " - это не высокостный год");
